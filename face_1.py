@@ -150,3 +150,4 @@ while menu <=3:
         print("error: opcion invalida ")
     print(usuarios_validos,contraseñas_validos,administrador,contraseñas_admi)
     menu = 0
+    a = input("hola")
